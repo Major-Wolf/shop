@@ -1059,7 +1059,7 @@
                 <div class="row">
                     <div class="col-12 text-center">
                         <div class="copyright-content">
-                            <p>Copyright © 2019 Lukas. All Rights Reserved.</p>
+                            <p>Издательское право © 2019 DEVICEHOSTER. Все права защищены.</p>
                         </div>
                     </div>
                 </div>
